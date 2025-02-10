@@ -7,7 +7,7 @@
       "instagram": "https://www.instagram.com/tejas.gathekar/",
       "resume": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/resume/TejasGathekar.pdf"
     },
-    "desc_short": "🚀 Experienced in design, integration, and problem-solving, with a passion for launching new projects. 📱 Skilled in **Flutter (3.5+ years)**, **Kotlin Multiplatform**, and **SwiftUI**, I specialize in building **intuitive, high-performance mobile apps**. ⚡ Proficient in **RESTful API integration**, third-party libraries, and performance optimization to enhance user experience. 🎯",
+    "desc_short": "🚀 Experienced in design, integration, and problem-solving, with a passion for launching new projects. 📱 Skilled in Flutter (3.5+ years), Kotlin Multiplatform, and SwiftUI, I specialize in building intuitive, high-performance mobile apps. ⚡ Proficient in RESTful API integration, third-party libraries, and performance optimization to enhance user experience. 🎯",
     "desc": [
       "🚀 Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. 💡 Skilled at translating business requirements into scalable solutions. Seeking opportunities to contribute as a software engineer in a tech-driven firm.",
       "📱 I'm a seasoned **mobile app developer** with **3.5+ years of experience**, specializing in **Flutter, Kotlin Multiplatform (KMP), and SwiftUI**. I excel at building high-performance cross-platform applications, seamlessly integrating **RESTful APIs**, third-party libraries, and optimizing app performance to deliver exceptional user experiences. 🔥 Adaptable to evolving technologies, I thrive on creating intuitive and scalable solutions."
@@ -37,7 +37,7 @@
       ]
     }
   ],
- "project_data": [
+  "project_data": [
     {
       "name": "ERP APP (Responsive)",
       "desc": "Developed and launched an exclusive ERP (Enterprise Resource Planning) application tailored for educational institutions, allowing teachers to efficiently manage student records and assignments.\nThis resulted in improved administrative processes and the ability to generate detailed reports in PDF format.\nThe system has streamlined teacher data entry and task assignment processes, providing authorities with real-time updates on task completion.\nThis ERP application is accessible via both web and Android mobile app platforms, enhancing accessibility and convenience for all users within the organization.\n\nusername:admin@admin.com\npassword:admin@1",
@@ -148,8 +148,7 @@
       "web_link": "https://tejasg-007.github.io/zEEhubAssesment.github.io/",
       "git_link": "https://github.com/TejasG-007/zEEhubAssesment.github.io"
     }
-  ]
-,
+  ],
   "site_data": {
     "copyright": "copyright@2025 TejasG"
   }
