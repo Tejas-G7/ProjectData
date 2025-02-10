@@ -37,10 +37,11 @@
       ]
     }
   ],
-  "project_data": [
+ "project_data": [
     {
-      "name": "ERP APP(Responsive)",
+      "name": "ERP APP (Responsive)",
       "desc": "Developed and launched an exclusive ERP (Enterprise Resource Planning) application tailored for educational institutions, allowing teachers to efficiently manage student records and assignments.\nThis resulted in improved administrative processes and the ability to generate detailed reports in PDF format.\nThe system has streamlined teacher data entry and task assignment processes, providing authorities with real-time updates on task completion.\nThis ERP application is accessible via both web and Android mobile app platforms, enhancing accessibility and convenience for all users within the organization.\n\nusername:admin@admin.com\npassword:admin@1",
+      "desc_short": "A responsive ERP system for educational institutions to manage student records, assignments, and generate reports, available on web and Android.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/erp_app.png"
       ],
@@ -50,6 +51,7 @@
     {
       "name": "SMPO APP",
       "desc": "Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
+      "desc_short": "A social media platform for institutions, enabling members to share content, interact, and receive task assignments from authorities.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/SMPO.png"
       ],
@@ -58,7 +60,8 @@
     },
     {
       "name": "TODO APP",
-      "desc": "Crafted with Flutter for Android and powered by Firebase, our innovative Todo app delivers efficient task management and organization. Its user-friendly interface ensures a seamless experience, allowing users to create, categorize, and prioritize tasks with ease. Real-time synchronization through Firebase keeps tasks up-to-date across devices, fostering collaboration and enhancing productivity. The app's cross-platform compatibility and integration with Firebase's security features provide users with a reliable and secure task management solution. With features like task completion tracking, reminders, and notifications, our app empowers users to stay on top of their responsibilities while enjoying a smooth, responsive performance.",
+      "desc": "Crafted with Flutter for Android and powered by Firebase, our innovative Todo app delivers efficient task management and organization...",
+      "desc_short": "A Flutter-based Todo app with Firebase integration for real-time sync, task tracking, and reminders across devices.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/todo.png"
       ],
@@ -67,7 +70,8 @@
     },
     {
       "name": "SHAKUNTAL SCHOOL WORDPRESS",
-      "desc": "I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development. In addition, I provided exceptional client support, ensuring their needs were met effectively. Through this project, I demonstrated my ability to create functional and visually appealing websites while delivering outstanding service to the client.",
+      "desc": "I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development...",
+      "desc_short": "A WordPress-based website for Shakuntal School, designed for an engaging user experience and efficient content management.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/school.JPG"
       ],
@@ -76,7 +80,8 @@
     },
     {
       "name": "IT-PLANET WORDPRESS",
-      "desc": "During my internship at Vensark Tech in Nanded, I successfully developed an E-Commerce website named IT-World Shop using WordPress and WooCommerce. This platform serves as an online marketplace for IT-related products and services. By integrating WooCommerce into WordPress, I enabled features such as product listings, secure payment gateways, and order management, creating a seamless shopping experience for customers. This real-world project allowed me to apply my technical skills to enhance online shopping accessibility and gain valuable insights into E-Commerce development, user engagement, and practical web design.",
+      "desc": "During my internship at Vensark Tech in Nanded, I successfully developed an E-Commerce website named IT-World Shop using WordPress...",
+      "desc_short": "An e-commerce platform built with WordPress and WooCommerce, featuring product listings, secure payments, and order management.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/itplanet.JPG"
       ],
@@ -85,7 +90,8 @@
     },
     {
       "name": "PORTFOLIO FLUTTER",
-      "desc": "I developed a responsive portfolio website using the Flutter framework, highlighting my proficiency in web development. This site not only showcases my skills and projects but also offers users the flexibility to customize the theme color according to their preferences. Through this project, I aimed to provide visitors with an interactive and visually appealing platform that reflects my capabilities while allowing them to personalize their browsing experience.",
+      "desc": "I developed a responsive portfolio website using the Flutter framework, highlighting my proficiency in web development...",
+      "desc_short": "A Flutter-based responsive portfolio website with theme customization options.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/flutterportfolio.PNG"
       ],
@@ -94,7 +100,8 @@
     },
     {
       "name": "QUOTES APP",
-      "desc": "I created a mobile application using the Flutter framework that features an assortment of insightful quotes curated from renowned individuals. This project showcases my skills in app development and my commitment to offering users a collection of impactful quotes that have been attributed to great minds. Through this endeavor, I aimed to provide users with inspiration and wisdom encapsulated in the words of distinguished figures.",
+      "desc": "I created a mobile application using the Flutter framework that features an assortment of insightful quotes...",
+      "desc_short": "A Flutter-based quotes app showcasing inspiring quotes from great minds.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/quotes.jpg"
       ],
@@ -103,7 +110,8 @@
     },
     {
       "name": "MEDG APP",
-      "desc": "Designed and developed the MedG Android App, Especially for people who stay away from home.\nThe app will be responsible for the monitoring and management of the user's health report.\nIt will notify the person closest to the user when the user is not feeling well or has an illness.",
+      "desc": "Designed and developed the MedG Android App, especially for people who stay away from home...",
+      "desc_short": "A health monitoring app that alerts close contacts when the user experiences health issues.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/banner.jpg"
       ],
@@ -112,7 +120,8 @@
     },
     {
       "name": "IOT APP",
-      "desc": "Designed and developed a smart Android app that lets users reserve parking spots from anywhere.\nThis app calculates parking charges and buffer fees, considering travel time, and displays real- time slot availability.\nCrafted a user-friendly booking system in the app, allowing people to easily reserve parking spaces. The app automatically figures out the cost, including extra time, making parking hassle-free.\nEngineered real-time updates about available parking spots, making reservations quick. This enhances user convenience and accessibility, providing a seamless solution for parking needs.",
+      "desc": "Designed and developed a smart Android app that lets users reserve parking spots from anywhere...",
+      "desc_short": "A smart parking reservation app providing real-time slot availability and automated fee calculations.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot5.png"
       ],
@@ -121,7 +130,8 @@
     },
     {
       "name": "WEATHER APP",
-      "desc": "Explore the simplicity of our new Android weather app. Seamlessly combining real-time temperature updates based on your location and forecasts for various cities, this app keeps you in the know about changing weather conditions. \nEffortlessly access the current temperature in your vicinity, or easily check the temperature in any city you desire. This straightforward app is designed for quick and accurate temperature information, helping you plan your day with ease.",
+      "desc": "Explore the simplicity of our new Android weather app. Seamlessly combining real-time temperature updates...",
+      "desc_short": "A simple Android weather app displaying real-time temperature updates for various cities.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather5.png"
       ],
@@ -130,14 +140,16 @@
     },
     {
       "name": "User Monthly Progress Web-App",
-      "desc": "Track your monthly goals effortlessly with our intuitive Monthly Progress Report Web App developed in Flutter. Set, visualize, and achieve personalized objectives with interactive charts and timely reminders. Benefit from a user-friendly interface, robust security, and detailed monthly reports summarizing your achievements. Join a supportive community and start your journey to self-improvement today!.",
+      "desc": "Track your monthly goals effortlessly with our intuitive Monthly Progress Report Web App developed in Flutter...",
+      "desc_short": "A Flutter-based web app for tracking monthly goals with interactive charts and reports.",
       "images": [
         "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/userP1.png"
       ],
       "web_link": "https://tejasg-007.github.io/zEEhubAssesment.github.io/",
       "git_link": "https://github.com/TejasG-007/zEEhubAssesment.github.io"
     }
-  ],
+  ]
+,
   "site_data": {
     "copyright": "copyright@2025 TejasG"
   }
