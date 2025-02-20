@@ -147,6 +147,26 @@
       ],
       "web_link": "https://tejasg-007.github.io/zEEhubAssesment.github.io/",
       "git_link": "https://github.com/TejasG-007/zEEhubAssesment.github.io"
+    },
+    {
+      "name": "Zebra Plugin",
+      "desc": "This plugin provides a simple interface for interacting with Zebra DataWedge for barcode scanning and label printing functionalities. It includes methods to manage DataWedge profiles, control scanning, and print labels via Zebra printers.",
+      "desc_short": "zebra_scan_print_datawedge: ^1.0.4",
+      "images": [
+        "https://raw.githubusercontent.com/TejasG-007/assets/refs/heads/main/zebra.png"
+      ],
+      "web_link": "https://pub.dev/packages/zebra_scan_print_datawedge",
+      "git_link": "https://github.com/TejasG-007/zebra_scan_print_datawedge"
+    },
+    {
+      "name": "SMS Watcher Plugin",
+      "desc": "A Flutter plugin to listen to incoming SMS messages and fetch stored messages on Android devices. This plugin allows you to receive SMS updates in real-time and retrieve SMS history for various use cases.",
+      "desc_short": "smswatcher: ^0.0.3",
+      "images": [
+        ""
+      ],
+      "web_link": "https://pub.dev/packages/smswatcher",
+      "git_link": "https://github.com/TejasG-007/smswatcher"
     }
   ],
   "site_data": {
