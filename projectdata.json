@@ -153,7 +153,7 @@
       "desc": "This plugin provides a simple interface for interacting with Zebra DataWedge for barcode scanning and label printing functionalities. It includes methods to manage DataWedge profiles, control scanning, and print labels via Zebra printers.",
       "desc_short": "zebra_scan_print_datawedge: ^1.0.4",
       "images": [
-        "https://raw.githubusercontent.com/TejasG-007/assets/refs/heads/main/zebra.png"
+        "https://raw.githubusercontent.com/TejasG-007/assets/refs/heads/main/zebra.png.png"
       ],
       "web_link": "https://pub.dev/packages/zebra_scan_print_datawedge",
       "git_link": "https://github.com/TejasG-007/zebra_scan_print_datawedge"
